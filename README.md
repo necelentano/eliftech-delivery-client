@@ -12,4 +12,7 @@
 
 ```
 VITE_SITY_KEY='your_google_recaptcha_site_key'
+VITE_API_URL='your_api_url'
 ```
+
+## [ElifTech Food Delivery App (Server) Repo](https://github.com/necelentano/eliftech-delivery-server)
